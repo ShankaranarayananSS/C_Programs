@@ -1,0 +1,12 @@
+//	Perimeter of Circle	: 2 * Pie * Radius
+//	Area of Circle		: Pie * Radius * Radius
+
+#include<stdio.h>
+int main(){
+	float r;
+	printf("Enter radius of a Circle:");
+	scanf("%f",&r);
+	printf("\nPerimeter of Circle: %.2f",2*3.14*r);
+	printf("\nArea of Circle: %.2f",3.14*r*r);
+	return 0;
+}
