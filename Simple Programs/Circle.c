@@ -1,5 +1,5 @@
-//	Perimeter of Circle	: 2 * Pie * Radius
-//	Area of Circle		: Pie * Radius * Radius
+//	Perimeter of Circle	: 2 * Pi * Radius
+//	Area of Circle		: Pi * Radius * Radius
 
 #include<stdio.h>
 int main(){
