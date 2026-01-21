@@ -9,7 +9,7 @@ int main(){
 	printf("\n%.2f < %.2f : %d",n1,n2,n1<n2);
 	printf("\n%.2f > %.2f : %d",n1,n2,n1>n2);
 	printf("\n%.2f <= %.2f : %d",n1,n2,n1<=n2);
-	printf("\n%.2f <= %.2f : %d",n1,n2,n1<=n2);
+	printf("\n%.2f >= %.2f : %d",n1,n2,n1>=n2);
 	printf("\n%.2f == %.2f : %d",n1,n2,n1==n1);
 	printf("\n%.2f != %.2f : %d",n1,n2,n1!=n1);
 }
