@@ -1,0 +1,12 @@
+Types of Looping Statement in C:
+  for Loop
+  while Loop
+  do while Loop
+
+Entry Check Loops  : for, while
+Exit Check Loops   : do while
+
+Use cases:
+  For loop is used when number of iterations is known
+  While loop is used when number of iterations is not known, only depends on the condition
+  Do While loop is used to execute atleast once, regardless of the condition.
