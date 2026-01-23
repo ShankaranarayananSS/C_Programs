@@ -4,7 +4,7 @@
 
 #include<stdio.h>
 int main(){
-  float f,c;
+  float c;
   printf("Enter Celsius:");
   scanf("%f",&c);
   printf("Fahrenheit = %.2f",(c*9/5)+32);
