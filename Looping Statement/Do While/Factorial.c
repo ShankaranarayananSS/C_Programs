@@ -1,4 +1,4 @@
-//While Loop
+//Do While Loop
 //Factorial
 
 #include<stdio.h>
