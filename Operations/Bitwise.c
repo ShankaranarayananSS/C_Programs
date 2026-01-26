@@ -8,6 +8,7 @@ int main(){
 	
 	printf("\n%d & %d = %d",num1,num2,num1&num2);
 	printf("\n%d | %d = %d",num1,num2,num1|num2);
+	printf("\n%d ^ %d = %d",num1,num2,num1^num2);
 	printf("\n~%d = %d",num1,~num1);
 	printf("\n~%d = %d",num2,~num2);
 	printf("\n%d>>1 = %d",num1,(num1>>1));
