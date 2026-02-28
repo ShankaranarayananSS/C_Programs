@@ -1,11 +1,10 @@
 #include<stdio.h>
 int main(){
-	
 	int i;
 	printf("Enter any integer:");
 	scanf("%d",&i);
 	
-	//Increment	
+	//Increment
 	printf("\n%d",i);
 	printf("\n%d",i++);
 	printf("\n%d",++i);
@@ -14,4 +13,5 @@ int main(){
 	printf("\n%d",i);
 	printf("\n%d",i--);
 	printf("\n%d",--i);
+	return 0;
 }
