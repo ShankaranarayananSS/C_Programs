@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main(){
 	float m1,m2,m3,m4,m5,total,avg;
 	printf("Enter mark-1:");
@@ -12,6 +11,7 @@ int main(){
 	scanf("%f",&m4);
 	printf("Enter mark-5:");
 	scanf("%f",&m5);
+	
 	total = m1+m2+m3+m4+m5;
 	avg = total/5;
 	printf("\nTotal Marks: %.2f",total);
