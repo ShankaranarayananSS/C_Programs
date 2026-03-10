@@ -9,6 +9,7 @@ int main(){
 	scanf("%f",&n);
 	printf("Enter Rate of Interest:");
 	scanf("%f",&r);
+	
 	printf("Simple Interest: %.2f",p*n*r/100);
 	return 0;
 }
