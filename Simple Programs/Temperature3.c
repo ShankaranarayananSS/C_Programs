@@ -7,6 +7,7 @@ int main(){
   float c;
   printf("Enter Celsius:");
   scanf("%f",&c);
+  
   printf("Kelvin = %.2f",c+273.15);
   return 0;
 }
