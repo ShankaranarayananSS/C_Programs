@@ -7,6 +7,6 @@ int main(){
   scanf("%d",&n2);
   
   mod = n1%n2;
-  printf("%d %% %.d = %d\n",n1,n2,mod);
+  printf("%d %% %d = %d\n",n1,n2,mod);
   return 0;
 }
