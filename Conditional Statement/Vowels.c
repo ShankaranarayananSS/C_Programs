@@ -8,9 +8,6 @@ int main(){
 		letter=='a' || letter=='e' || letter=='i' || letter=='o' || letter=='u'){
 		printf("\'%c\' is a Vowel!",letter);
 	}
-	// else if(letter==' '){
-	// 	printf("\'%c\' is a White Space!",letter);
-	// }
 	else{
 		printf("\'%c\' is a Consonant or Other character!",letter);
 	}
