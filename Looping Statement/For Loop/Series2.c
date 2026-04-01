@@ -8,11 +8,13 @@ int main(){
   printf("Enter any number:");
   scanf("%d",&n);
   
+  //1 3 5 ... N
   printf("\nOdd Series:\n");
   for(i=1;i<=n;i+=2){
     printf("%d\n",i);
   }
   
+  //2 4 6 ... N
   printf("\nEven Series:\n");
   for(i=2;i<=n;i+=2){
     printf("%d\n",i);
