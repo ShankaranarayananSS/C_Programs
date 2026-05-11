@@ -6,10 +6,10 @@ int main(){
   printf("Enter number-2:");
   scanf("%d",&n2);
   
-  printf("%d & %d = %d\n",n1,n2,(n1&n2));
-  printf("%d | %d = %d\n",n1,n2,(n1|n2));
-  printf("%d ^ %d = %d\n",n1,n2,(n1^n2));
-  printf("~%d = %d\n",n1,(~n1));
-  printf("~%d = %d\n",n2,(~n2));
+  printf("\n%d & %d = %d",n1,n2,(n1&n2));
+  printf("\n%d | %d = %d",n1,n2,(n1|n2));
+  printf("\n%d ^ %d = %d",n1,n2,(n1^n2));
+  printf("\n~%d = %d",n1,(~n1));
+  printf("\n~%d = %d",n2,(~n2));
   return 0;
 }
