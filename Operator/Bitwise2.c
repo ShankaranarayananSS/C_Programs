@@ -6,7 +6,7 @@ int main(){
   printf("Enter no. of shift:");
   scanf("%d",&shift);
   
-  printf("Bit L Shift = %d\n",(num<<shift));
-  printf("Bit R Shift = %d\n",(num>>shift));
+  printf("\nBit L Shift = %d",(num<<shift));
+  printf("\nBit R Shift = %d",(num>>shift));
   return 0;
 }
