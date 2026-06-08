@@ -2,6 +2,7 @@
 int main(){
   int i=1;
   printf("Ascending Order:");
+  
   while(i<=10){
     printf("\n%d",i++);
   }
