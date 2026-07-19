@@ -1,4 +1,4 @@
-//Vote Eligibility - Version
+//Vote Eligibility - Version 1
 
 #include<stdio.h>
 int main(){
