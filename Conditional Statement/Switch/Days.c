@@ -12,7 +12,7 @@ int main(){
     case 5:printf("THU");break;
     case 6:printf("FRI");break;
     case 7:printf("SAT");break;
-    default:printf("No such Day");break;
+    default:printf("No Such Day");break;
   }
   return 0;
 }
