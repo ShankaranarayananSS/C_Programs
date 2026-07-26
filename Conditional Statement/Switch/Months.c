@@ -17,7 +17,7 @@ int main(){
     case 10:printf("OCT");break;
     case 11:printf("NOV");break;
     case 12:printf("DEC");break;
-    default:printf("No Such Month");
+    default:printf("No Such Month");break;
   }
   return 0;
 }
