@@ -1,5 +1,5 @@
-//Area of Circle      = S * S
-//Perimeter of Circle = 4 * S
+//Area of Square      = S * S
+//Perimeter of Square = 4 * S
 
 #include<stdio.h>
 int main(){
