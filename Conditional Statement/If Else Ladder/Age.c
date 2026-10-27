@@ -14,7 +14,7 @@ int main(){
     printf("Young Age");
   }else if(age>=13){
     printf("Teenager");
-  }else if(age>=1){
+  }else if(age>=0){
     printf("Child");
   }else{
     printf("Invalid Age!");
